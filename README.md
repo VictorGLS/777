@@ -1,4 +1,4 @@
-<img src="https://github.com/VictorGLS/Poke-da-Dex/blob/main/preview.gif?raw=true" width=50% height=50%>
+<img src="https://github.com/VictorGLS/777/blob/main/images/pokedex.png?raw=true" width=50% height=50%>
 [Clique aqui para testar você mesmo!!!](https://poke-da-dex.vercel.app)
 
 # Introdução
@@ -28,3 +28,5 @@ Este projeto é feito para a ETEC Antonio Furlan para usar as linguagens HTML,CS
 ## JS
  
    O JavaScript é usado para obter as informações via a API que busca as informações dos pokemons e as mostra nos locais designados pelo CSS.
+
+   <img src="https://github.com/VictorGLS/777/blob/main/images/pokedex.png?raw=true" width=50% height=50%>
