@@ -1,5 +1,5 @@
 <img src="https://github.com/VictorGLS/777/blob/main/images/pokedex.png?raw=true" width=50% height=50%>
-[Clique aqui para testar você mesmo!!!](https://poke-da-dex.vercel.app)
+[Clique aqui para testar você mesmo!!!](https://victorloureco.vercel.app)
 
 # Introdução
 Este projeto é feito para a ETEC Antonio Furlan para usar as linguagens HTML,CSS e JS.
@@ -25,8 +25,9 @@ Este projeto é feito para a ETEC Antonio Furlan para usar as linguagens HTML,CS
 ## CSS
  
    O CSS é usado principalmente para posicionar onde as informações irão ser mostradas e ajustar o tamanho das informações mencionadas(imagem do pokemon, peso, altura etc.), tambem é usado para modificar a cor do fundo da pagina para deixa-la mais bonita aos olhos, a fonte usada é a Oxanium, que foi importada usando o googlefonts.
+
 ## JS
  
    O JavaScript é usado para obter as informações via a API que busca as informações dos pokemons e as mostra nos locais designados pelo CSS.
 
-   <img src="https://github.com/VictorGLS/777/blob/main/images/pokedex.png?raw=true" width=50% height=50%>
+   <img src="">
